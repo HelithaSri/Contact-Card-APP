@@ -98,28 +98,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-/*
-Padding(
-padding: EdgeInsets.all(10.0),
-child: Row(
-children: [
-Icon(
-Icons.phone,
-color: Colors.blueAccent.shade400,
-size: 20.0,
-),
-SizedBox(
-width: 10.0,
-),
-Text(
-"+94767059199",
-style: TextStyle(
-color: Colors.blueAccent.shade400,
-fontSize: 17.0,
-fontFamily: "CutiveMono",
-fontWeight: FontWeight.bold),
-),
-],
-),
-),*/
