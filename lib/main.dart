@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_const_constructors
+
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
@@ -22,6 +24,9 @@ class MyApp extends StatelessWidget {
             CircleAvatar(
               radius: 50.0,
               backgroundImage: AssetImage("assets/images/dp.png"),
+            ),
+            SizedBox(
+              height: 10.0,
             ),
             Text(
               "Helitha Sri",
