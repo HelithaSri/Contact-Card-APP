@@ -1,6 +1,9 @@
-# contact_card
+# Contact Card
 
-A new Flutter project.
+My First Flutter project.
+![Screenshot](assets/images/ss.jpg)
+
+
 
 ## Getting Started
 
